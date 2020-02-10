@@ -5,12 +5,17 @@ Creation of AWSJenkinsServer Through Terraform
 
 **1. Linux EC2 Creation Through Terraform Code**
 
-**2. Install Jenkins on Server through JENKINSINSTALLATIONGUIDE**
+**2. Install Jenkins on Server through InstallingJenkinsOnLinux.txt**
 
-**3. Install Terraform**
+**3. Install Terraform through TerraformInstallationOnLinux.txt**
 
 **4. Install GIT**
 
 **5. Install AWS/CLI**
 
-**5. Configure the JENKINS: Set the Environment Variable for GIT in Global Tools Configuration**
+**6. Configure the JENKINS: Set the Environment Variable for GIT in Global Tools Configuration**
+
+**Note: 2,3,4 & 5 Steps Can be done through USERDATA SCRIPT.**
+
+
+# PROCESS FLOW:
