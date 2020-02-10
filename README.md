@@ -52,4 +52,4 @@ Creation of AWSJenkinsServer Through Terraform
 
 **It is recommended to use reusable modules in Terraform by writing your own modules and using modules from the Terraform Registry. We can also use the Docker Build Agent for Jenkins slave and save the workspace by attaching a persistent volume to the Jenkins server from the Docker host.**
 
-
+![alt text](https://github.com/shubhdev79/AWSJenkinsServer/blob/master/CI-CD%20Using%20Terraform%20%26%20Jenkins.png)
